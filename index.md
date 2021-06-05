@@ -1,12 +1,12 @@
 ```markdown
 Syntax highlighted code block
 
-For more details see [Profile](https://www.linkedin.com/in/sweta-ray/).
+For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
 
 and ![Image](src)
 ```
 
-For more details see [Profile](https://www.linkedin.com/in/sweta-ray/).
+For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
 
 # Sweta
 ## Sweta Ray | Resume | Portfolio
