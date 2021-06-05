@@ -6,6 +6,8 @@ Syntax highlighted code block
 and ![Image](src)
 ```
 
+For more details see [Profile](https://www.linkedin.com/in/sweta-ray/).
+
 # Sweta
 ## Sweta Ray | Resume | Portfolio
 You can use the [editor on GitHub](https://github.com/Swetaray28/sweta-ray.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
