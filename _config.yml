@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Sweta Ray
 description: Full-Stack Software Engineer | Worked for Fortune 500 companies | Loves travelling and gardening.
+plugins:- jekyll-seo-tag
