@@ -1,7 +1,9 @@
 ```markdown
 Syntax highlighted code block
 
-[Link](https://www.linkedin.com/in/sweta-ray/) and ![Image](src)
+[Profile](https://www.linkedin.com/in/sweta-ray/).
+
+and ![Image](src)
 ```
 
 # Sweta
