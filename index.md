@@ -10,7 +10,7 @@ For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
 
 # Work Experience
 ```
- **Consultant - Deloitte Digital                                                                     Apr 2020 – Sep 2020 (Mumbai, India)**
+ Consultant - Deloitte Digital                                                                     Apr 2020 – Sep 2020 (Mumbai, India)
 
 - Worked as UX/UI Designer and Developer in Deloitte Digital Studio.
 
