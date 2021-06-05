@@ -5,7 +5,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Consultant (Deloitte Digital)
+Full-time
+Dates EmployedApr 2020 – Sep 2020
+Employment Duration6 mos
+LocationMumbai, Maharashtra, India
+• Worked as UX/UI Designer and Developer in Deloitte Digital Studio.
+• Collaborated with Senior Studio Designers to create style sheet, branding, visual design patterns and graphics.
+• Created wireframes, illustrations, responsive design layouts using Invision, Sketch and ensured the technical feasibility of the designs.
+• Translated UX design wireframes to code using Salesforce Lightning framework, CSS, HTML, JavaScript to produce visual elements for web application.
+• Built asset code and libraries for future use within Deloitte in Government and Public Services sector.
 
 ```markdown
 Syntax highlighted code block
