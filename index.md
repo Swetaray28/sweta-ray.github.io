@@ -10,13 +10,17 @@ For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
 
 # Work Experience
 
-## Consultant - Deloitte Digital
-### Apr 2020 – Sep 2020 (Mumbai, India)
-```markdown
+### Consultant - Deloitte Digital                                                                     Apr 2020 – Sep 2020 (Mumbai, India)
+### 
+```
 • Worked as UX/UI Designer and Developer in Deloitte Digital Studio.
+
 • Collaborated with Senior Studio Designers to create style sheet, branding, visual design patterns and graphics.
+
 • Created wireframes, illustrations, responsive design layouts using Invision, Sketch and ensured the technical feasibility of the designs.
+
 • Translated UX design wireframes to code using Salesforce Lightning framework, CSS, HTML, JavaScript to produce visual elements for web application.
+
 • Built asset code and libraries for future use within Deloitte in Government and Public Services sector.
 ```
 
