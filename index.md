@@ -1,4 +1,4 @@
-```markdown
+```
 Syntax highlighted code block
 
 For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
