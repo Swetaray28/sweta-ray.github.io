@@ -1,1 +1,1 @@
-<h1 class="project-name">swetaray28.github.io</h1>
+<h1 class="project-name">Sweta Ray</h1>
