@@ -7,10 +7,10 @@ and ![Image](src)
 ```
 
 For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
+Consultant - Deloitte Digital  Apr 2020 – Sep 2020 (Mumbai, India)
 
 # Work Experience
 ```
-Consultant - Deloitte Digital  Apr 2020 – Sep 2020 (Mumbai, India)
 
 - Worked as UX/UI Designer and Developer in Deloitte Digital Studio.
 
