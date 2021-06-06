@@ -3,7 +3,7 @@ Syntax highlighted code block
 
 For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
 
-and ![Image](src)
+and ![Image](Tulips.jpg)
 ```
 
 For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
