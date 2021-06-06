@@ -9,6 +9,8 @@ and ![Image](Tulips.jpg)
 For more details see [Linkedin](https://www.linkedin.com/in/sweta-ray/).
 Consultant - Deloitte Digital  Apr 2020 – Sep 2020 (Mumbai, India)
 
+![Image](Tulips.jpg)
+
 # Work Experience
 ```
 
